@@ -1,5 +1,20 @@
 # PartsClient
 
+- [PartsClient](#partsclient)
+  * [Run Program Pertama](#run-program-pertama)
+  * [Add Part](#add-part)
+    + [Add Part Menu](#add-part-menu)
+    + [Add Part Result](#add-part-result)
+  * [Update Part](#update-part)
+    + [Update Part Menu](#update-part-menu)
+    + [Update Part Result](#update-part-result)
+  * [Delete Part](#delete-part)
+    + [Before Deletion](#before-deletion)
+    + [After Deletion](#after-deletion)
+
+
+
+
 ## Run Program Pertama
 ![ss1](PartsClient/screenshots/ss-1.png)
 
