@@ -22,4 +22,4 @@
 ![ss6](PartsClient/screenshots/ss-6.png)
 
 ### After Deletion
-![ss7](PartsClient/screenshots/22-7.png)
+![ss7](PartsClient/screenshots/ss-7.png)
