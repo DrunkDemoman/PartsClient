@@ -1,6 +1,6 @@
 # PartsClient
 
-- [PartsClient](#partsclient)
+- [Table of Contents](#partsclient)
   * [Run Program Pertama](#run-program-pertama)
   * [Add Part](#add-part)
     + [Add Part Menu](#add-part-menu)
